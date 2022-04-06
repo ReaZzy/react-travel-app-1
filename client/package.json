@@ -25,7 +25,7 @@
     "leaflet-fullscreen": "^1.0.2",
     "leaflet.fullscreen": "^2.0.0",
     "material-ui-search-bar": "^1.0.0",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.33",
     "react": "^17.0.1",
     "react-bnb-gallery": "^1.4.4",
