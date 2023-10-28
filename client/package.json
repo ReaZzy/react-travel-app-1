@@ -20,7 +20,7 @@
     "@types/react-redux": "^7.1.16",
     "@types/swiper": "^5.4.2",
     "@types/uuid": "^8.3.0",
-    "axios": "^0.21.3",
+    "axios": "^1.6.0",
     "leaflet": "^1.7.1",
     "leaflet-fullscreen": "^1.0.2",
     "leaflet.fullscreen": "^2.0.0",
